@@ -1,0 +1,14 @@
+.def{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://takalkarclasses.com/wp-content/uploads/2023/11/Courses-1.jpg");
+    height:250px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+
+}
+.about_black p{
+   color: white;
+   position: relative;
+   top: 60px; 
+}

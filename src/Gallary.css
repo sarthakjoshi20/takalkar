@@ -1,0 +1,22 @@
+/* facility :end */
+
+.ghi{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://takalkarclasses.com/wp-content/uploads/2023/11/Gallary.jpg");
+    height:250px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+
+}
+.about_black{
+    height: 100%;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.638);
+
+}
+.about_black p{
+   color: white;
+   position: relative;
+   top: 60px; 
+}
