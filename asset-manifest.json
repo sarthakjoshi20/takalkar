@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/takalkar/static/css/main.d80b5b7d.css",
+    "main.js": "/takalkar/static/js/main.261b365c.js",
+    "static/js/488.dad45927.chunk.js": "/takalkar/static/js/488.dad45927.chunk.js",
+    "index.html": "/takalkar/index.html",
+    "main.d80b5b7d.css.map": "/takalkar/static/css/main.d80b5b7d.css.map",
+    "main.261b365c.js.map": "/takalkar/static/js/main.261b365c.js.map",
+    "488.dad45927.chunk.js.map": "/takalkar/static/js/488.dad45927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80b5b7d.css",
+    "static/js/main.261b365c.js"
+  ]
+}
