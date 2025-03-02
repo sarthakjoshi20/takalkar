@@ -13,8 +13,8 @@ export default function App() {
     <>
       <Router>
         <Navbar></Navbar>
+        <Route path='/' element={<Home></Home>}></Route>
         <Routes>
-          <Route path='/' element={<Home></Home>}></Route>
           <Route path='/about' element={<About></About>}></Route>
           <Route path='/cources' element={<Cources></Cources>}></Route>
           <Route path='/addmissions' element={<Addmission></Addmission>}></Route>
