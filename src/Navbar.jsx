@@ -43,7 +43,7 @@ function Navbar(){
               <div className="collapse navbar-collapse" id="da">
               <ul className="navbar-nav" style={{paddingLeft:"150px"}}>
                   <li className="nav-item active">
-                  <NavLink className="nav-link text-secondary pl-4" style={{"fontWeight":"bold"}} to="/">Home</NavLink>
+                  <NavLink className="nav-link text-secondary pl-4 active" style={{"fontWeight":"bold"}} to="/">Home</NavLink>
                   </li>
                   <li className="nav-item">
                   <NavLink className="nav-link text-secondary pl-4" style={{"fontWeight":"bold"}} to="/about">About</NavLink>
