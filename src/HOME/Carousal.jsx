@@ -7,13 +7,13 @@ export default function Carousal(){
             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="image/slider1.jpg" class="d-block w-100" alt="..."/>
+                <img src="img/1.jpg" class="d-block w-100" alt="..."/>
                 </div>
                 <div class="carousel-item">
-                <img src="image/slider2.jpg" class="d-block w-100" alt="..."/>
+                <img src="img/2.jpg" class="d-block w-100" alt="..."/>
                 </div>
                 <div class="carousel-item">
-                <img src="image/slider3.jpg" class="d-block w-100" alt="..."/>
+                <img src="img/3.jpg" class="d-block w-100" alt="..."/>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
